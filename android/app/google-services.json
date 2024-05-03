@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306646829338",
+    "project_id": "venues-1e041",
+    "storage_bucket": "venues-1e041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306646829338:android:37576626e3625807b404a3",
+        "android_client_info": {
+          "package_name": "com.example.weddingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5NAldl4OhlLXnhPxg4iJbkwfCtElIfF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
