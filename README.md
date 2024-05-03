@@ -1,8 +1,8 @@
-# weddingapp
+# Venues
 
-A new Flutter project.
+"Venues," designed to simplify event planning by providing a centralized platform for booking venues, function decorations, and various event services.
 
-## Getting Started
+## User Interface
 
 This project is a starting point for a Flutter application.
 
