@@ -1,4 +1,4 @@
-# EventHub
+# Venue
 
 ## About Project
 
