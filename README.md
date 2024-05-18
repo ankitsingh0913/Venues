@@ -2,7 +2,7 @@
 
 ## About Project
 
-"Venues," designed to simplify event planning by providing a centralized platform for booking venues, function decorations, and various event services.
+"Venue," designed to simplify event planning by providing a centralized platform for booking venues, function decorations, and various event services.
 
 ## Key Features:
 
